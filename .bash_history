@@ -78,3 +78,77 @@ clear
 git show
 git log
 history
+ls -ltr
+myproject
+ls -l
+git log
+git status
+git int
+git init
+git add .
+git commit -m "added first code"
+git remote -v
+git remote add origin https://github.com/RADHEOPS/myproject13.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote -v
+git remote add origin https://github.com/RADHEOPS/myproject13.git
+git push -u origin main
+cd myproject
+ls -l
+git log
+git show
+git log
+git tag -a "v0.5" 1510909eec1a9f4dc05ad0e6950d9481fc920992 -m "v0.5""
+git tag -a "v0.5" 1510909eec1a9f4dc05ad0e6950d9481fc920992 -m "v0.5"
+git log
+git show
+git log
+git log --oneline
+git remote -v
+git remote add origin https://github.com/RADHEOPS/myproject07.git
+git remote -v
+git branch -M main
+git branch
+git push -u origin main
+git push -u origin main --tags
+got log
+git log
+ls -ltr
+git log
+git log --online
+git log --oneline
+touch 9.java
+git status
+git add .
+gti commit -m "added extrafile"
+git commit -m "added extrafile"
+git log
+git show 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
+git show 805eb72df8ff8067a4d9a3589bce412bbabfce05
+git tag -a "v1.2" 805eb72df8ff8067a4d9a3589bce412bbabfce05 -m "release v1.2"
+git log
+clear
+git remote -v
+git remote add origin https://github.com/RADHEOPS/myopsproject.git
+git push -u orgin main
+git remote -v
+git init
+ls -ltr
+git remote add origin https://github.com/RADHEOPS/myopsproject.git
+git branch -M main
+git push -u origin main
+git push -u origin main --tags
+clear
+git log
+clear
+ls -l
+git pull
+ls -l
+git status
+git log --online
+git log --oneline
+clear
+ls -al
+git branch
